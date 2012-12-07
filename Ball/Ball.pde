@@ -9,7 +9,6 @@
   by Tom Igoe
   
   This example is in the public domain
-  
 */
 
 float hPos = 0;                    // initial horizontal position of the ball
